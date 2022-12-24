@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test cases">
+<test name="create user">
+<classes>
+<class name="com.practice.testngassertiondataprovider.AmazonDemo"></class>
+</classes>
+</test>
+</suite>
